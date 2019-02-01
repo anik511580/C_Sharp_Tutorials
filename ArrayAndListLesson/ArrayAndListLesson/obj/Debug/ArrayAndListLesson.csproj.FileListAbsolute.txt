@@ -1,0 +1,7 @@
+F:\C_sharp_projects\ArrayAndListLesson\ArrayAndListLesson\bin\Debug\ArrayAndListLesson.exe.config
+F:\C_sharp_projects\ArrayAndListLesson\ArrayAndListLesson\bin\Debug\ArrayAndListLesson.exe
+F:\C_sharp_projects\ArrayAndListLesson\ArrayAndListLesson\bin\Debug\ArrayAndListLesson.pdb
+F:\C_sharp_projects\ArrayAndListLesson\ArrayAndListLesson\obj\Debug\ArrayAndListLesson.csprojAssemblyReference.cache
+F:\C_sharp_projects\ArrayAndListLesson\ArrayAndListLesson\obj\Debug\ArrayAndListLesson.csproj.CoreCompileInputs.cache
+F:\C_sharp_projects\ArrayAndListLesson\ArrayAndListLesson\obj\Debug\ArrayAndListLesson.exe
+F:\C_sharp_projects\ArrayAndListLesson\ArrayAndListLesson\obj\Debug\ArrayAndListLesson.pdb

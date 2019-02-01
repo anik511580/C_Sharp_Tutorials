@@ -1,0 +1,7 @@
+F:\C_sharp_projects\DictionariesExample\DictionariesExample\bin\Debug\DictionariesExample.exe.config
+F:\C_sharp_projects\DictionariesExample\DictionariesExample\bin\Debug\DictionariesExample.exe
+F:\C_sharp_projects\DictionariesExample\DictionariesExample\bin\Debug\DictionariesExample.pdb
+F:\C_sharp_projects\DictionariesExample\DictionariesExample\obj\Debug\DictionariesExample.csprojAssemblyReference.cache
+F:\C_sharp_projects\DictionariesExample\DictionariesExample\obj\Debug\DictionariesExample.csproj.CoreCompileInputs.cache
+F:\C_sharp_projects\DictionariesExample\DictionariesExample\obj\Debug\DictionariesExample.exe
+F:\C_sharp_projects\DictionariesExample\DictionariesExample\obj\Debug\DictionariesExample.pdb

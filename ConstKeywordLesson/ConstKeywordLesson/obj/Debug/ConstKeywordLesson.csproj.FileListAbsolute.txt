@@ -1,0 +1,7 @@
+F:\C_sharp_projects\ConstKeywordLesson\ConstKeywordLesson\bin\Debug\ConstKeywordLesson.exe.config
+F:\C_sharp_projects\ConstKeywordLesson\ConstKeywordLesson\bin\Debug\ConstKeywordLesson.exe
+F:\C_sharp_projects\ConstKeywordLesson\ConstKeywordLesson\bin\Debug\ConstKeywordLesson.pdb
+F:\C_sharp_projects\ConstKeywordLesson\ConstKeywordLesson\obj\Debug\ConstKeywordLesson.csprojAssemblyReference.cache
+F:\C_sharp_projects\ConstKeywordLesson\ConstKeywordLesson\obj\Debug\ConstKeywordLesson.csproj.CoreCompileInputs.cache
+F:\C_sharp_projects\ConstKeywordLesson\ConstKeywordLesson\obj\Debug\ConstKeywordLesson.exe
+F:\C_sharp_projects\ConstKeywordLesson\ConstKeywordLesson\obj\Debug\ConstKeywordLesson.pdb

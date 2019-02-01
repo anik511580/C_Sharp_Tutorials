@@ -1,0 +1,7 @@
+C:\Users\Anik Barua\source\repos\CarProperty\CarProperty\bin\Debug\CarProperty.exe.config
+C:\Users\Anik Barua\source\repos\CarProperty\CarProperty\bin\Debug\CarProperty.exe
+C:\Users\Anik Barua\source\repos\CarProperty\CarProperty\bin\Debug\CarProperty.pdb
+C:\Users\Anik Barua\source\repos\CarProperty\CarProperty\obj\Debug\CarProperty.csprojAssemblyReference.cache
+C:\Users\Anik Barua\source\repos\CarProperty\CarProperty\obj\Debug\CarProperty.csproj.CoreCompileInputs.cache
+C:\Users\Anik Barua\source\repos\CarProperty\CarProperty\obj\Debug\CarProperty.exe
+C:\Users\Anik Barua\source\repos\CarProperty\CarProperty\obj\Debug\CarProperty.pdb

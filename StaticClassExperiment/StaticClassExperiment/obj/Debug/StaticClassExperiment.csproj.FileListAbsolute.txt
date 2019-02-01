@@ -1,0 +1,7 @@
+F:\C_sharp_projects\StaticClassExperiment\StaticClassExperiment\bin\Debug\StaticClassExperiment.exe.config
+F:\C_sharp_projects\StaticClassExperiment\StaticClassExperiment\bin\Debug\StaticClassExperiment.exe
+F:\C_sharp_projects\StaticClassExperiment\StaticClassExperiment\bin\Debug\StaticClassExperiment.pdb
+F:\C_sharp_projects\StaticClassExperiment\StaticClassExperiment\obj\Debug\StaticClassExperiment.csprojAssemblyReference.cache
+F:\C_sharp_projects\StaticClassExperiment\StaticClassExperiment\obj\Debug\StaticClassExperiment.csproj.CoreCompileInputs.cache
+F:\C_sharp_projects\StaticClassExperiment\StaticClassExperiment\obj\Debug\StaticClassExperiment.exe
+F:\C_sharp_projects\StaticClassExperiment\StaticClassExperiment\obj\Debug\StaticClassExperiment.pdb

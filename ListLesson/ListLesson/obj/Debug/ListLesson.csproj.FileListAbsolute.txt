@@ -1,0 +1,7 @@
+F:\C_sharp_projects\ListLesson\ListLesson\obj\Debug\ListLesson.csprojAssemblyReference.cache
+F:\C_sharp_projects\ListLesson\ListLesson\obj\Debug\ListLesson.csproj.CoreCompileInputs.cache
+F:\C_sharp_projects\ListLesson\ListLesson\bin\Debug\ListLesson.exe.config
+F:\C_sharp_projects\ListLesson\ListLesson\bin\Debug\ListLesson.exe
+F:\C_sharp_projects\ListLesson\ListLesson\bin\Debug\ListLesson.pdb
+F:\C_sharp_projects\ListLesson\ListLesson\obj\Debug\ListLesson.exe
+F:\C_sharp_projects\ListLesson\ListLesson\obj\Debug\ListLesson.pdb

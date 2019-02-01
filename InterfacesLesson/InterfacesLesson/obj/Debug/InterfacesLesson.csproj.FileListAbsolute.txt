@@ -1,0 +1,7 @@
+F:\C_sharp_projects\InterfacesLesson\InterfacesLesson\obj\Debug\InterfacesLesson.csprojAssemblyReference.cache
+F:\C_sharp_projects\InterfacesLesson\InterfacesLesson\obj\Debug\InterfacesLesson.csproj.CoreCompileInputs.cache
+F:\C_sharp_projects\InterfacesLesson\InterfacesLesson\bin\Debug\InterfacesLesson.exe.config
+F:\C_sharp_projects\InterfacesLesson\InterfacesLesson\bin\Debug\InterfacesLesson.exe
+F:\C_sharp_projects\InterfacesLesson\InterfacesLesson\bin\Debug\InterfacesLesson.pdb
+F:\C_sharp_projects\InterfacesLesson\InterfacesLesson\obj\Debug\InterfacesLesson.exe
+F:\C_sharp_projects\InterfacesLesson\InterfacesLesson\obj\Debug\InterfacesLesson.pdb

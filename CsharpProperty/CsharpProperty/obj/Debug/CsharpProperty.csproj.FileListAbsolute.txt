@@ -1,0 +1,7 @@
+C:\Users\Anik Barua\source\repos\CsharpProperty\CsharpProperty\bin\Debug\CsharpProperty.exe.config
+C:\Users\Anik Barua\source\repos\CsharpProperty\CsharpProperty\bin\Debug\CsharpProperty.exe
+C:\Users\Anik Barua\source\repos\CsharpProperty\CsharpProperty\bin\Debug\CsharpProperty.pdb
+C:\Users\Anik Barua\source\repos\CsharpProperty\CsharpProperty\obj\Debug\CsharpProperty.csprojAssemblyReference.cache
+C:\Users\Anik Barua\source\repos\CsharpProperty\CsharpProperty\obj\Debug\CsharpProperty.csproj.CoreCompileInputs.cache
+C:\Users\Anik Barua\source\repos\CsharpProperty\CsharpProperty\obj\Debug\CsharpProperty.exe
+C:\Users\Anik Barua\source\repos\CsharpProperty\CsharpProperty\obj\Debug\CsharpProperty.pdb

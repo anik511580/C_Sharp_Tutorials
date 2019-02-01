@@ -1,0 +1,7 @@
+F:\C_sharp_projects\FunctionParameters\FunctionParameters\bin\Debug\FunctionParameters.exe.config
+F:\C_sharp_projects\FunctionParameters\FunctionParameters\bin\Debug\FunctionParameters.exe
+F:\C_sharp_projects\FunctionParameters\FunctionParameters\bin\Debug\FunctionParameters.pdb
+F:\C_sharp_projects\FunctionParameters\FunctionParameters\obj\Debug\FunctionParameters.csprojAssemblyReference.cache
+F:\C_sharp_projects\FunctionParameters\FunctionParameters\obj\Debug\FunctionParameters.csproj.CoreCompileInputs.cache
+F:\C_sharp_projects\FunctionParameters\FunctionParameters\obj\Debug\FunctionParameters.exe
+F:\C_sharp_projects\FunctionParameters\FunctionParameters\obj\Debug\FunctionParameters.pdb

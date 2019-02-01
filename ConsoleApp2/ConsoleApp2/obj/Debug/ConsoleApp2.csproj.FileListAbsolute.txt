@@ -1,0 +1,7 @@
+F:\C_sharp_projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\C_sharp_projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\C_sharp_projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\C_sharp_projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+F:\C_sharp_projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\C_sharp_projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\C_sharp_projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

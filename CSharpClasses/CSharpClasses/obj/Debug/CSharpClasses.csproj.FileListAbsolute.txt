@@ -1,0 +1,7 @@
+C:\Users\Anik Barua\source\repos\CSharpClasses\CSharpClasses\bin\Debug\CSharpClasses.exe.config
+C:\Users\Anik Barua\source\repos\CSharpClasses\CSharpClasses\bin\Debug\CSharpClasses.exe
+C:\Users\Anik Barua\source\repos\CSharpClasses\CSharpClasses\bin\Debug\CSharpClasses.pdb
+C:\Users\Anik Barua\source\repos\CSharpClasses\CSharpClasses\obj\Debug\CSharpClasses.csprojAssemblyReference.cache
+C:\Users\Anik Barua\source\repos\CSharpClasses\CSharpClasses\obj\Debug\CSharpClasses.csproj.CoreCompileInputs.cache
+C:\Users\Anik Barua\source\repos\CSharpClasses\CSharpClasses\obj\Debug\CSharpClasses.exe
+C:\Users\Anik Barua\source\repos\CSharpClasses\CSharpClasses\obj\Debug\CSharpClasses.pdb
